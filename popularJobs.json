@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Full Stack Developer",
+      "jobsAvailable": "7K+ Jobs"
+    },
+    {
+      "id": 2,
+      "title": "Mobile / App Developer",
+      "jobsAvailable": "3K+ Jobs"
+    },
+    {
+      "id": 3,
+      "title": "Front End Developer",
+      "jobsAvailable": "5K+ Jobs"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "jobsAvailable": "2K+ Jobs"
+    },
+    {
+      "id": 5,
+      "title": "Engineering Manager",
+      "jobsAvailable": "1K+ Jobs"
+    },
+    {
+      "id": 6,
+      "title": "Technical Lead",
+      "jobsAvailable": "4K+ Jobs"
+    }
+  ]
+  

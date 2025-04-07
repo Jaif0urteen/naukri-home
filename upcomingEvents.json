@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "Professional Value of Excellence Hiring Challenge",
+      "date": "31 Jan '25",
+      "category": "Customer Support",
+      "rating": 3.9,
+      "participants": "1000-5000",
+      "icon": "W",
+      "bgColor": "red-100",
+      "iconColor": "red-600",
+      "status": "Going online by 31 Jan",
+      "buttonText": "View jobs"
+    },
+    {
+      "id": 2,
+      "title": "Get hired at an Amazon SDE Startup Challenge",
+      "date": "10 Feb '25",
+      "category": "Software Developer",
+      "rating": 4.2,
+      "participants": "5K+ people",
+      "icon": "A",
+      "bgColor": "orange-100",
+      "iconColor": "orange-600",
+      "status": "Going online by 10 Feb",
+      "buttonText": "View details"
+    },
+    {
+      "id": 3,
+      "title": "Technology Leadership Program",
+      "date": "15 Feb '25",
+      "category": "Tech Leadership",
+      "rating": 4.5,
+      "participants": "2K+ enrolled",
+      "icon": "T",
+      "bgColor": "purple-100",
+      "iconColor": "purple-600",
+      "status": "Going online by 15 Feb",
+      "buttonText": "View details"
+    },
+    {
+      "id": 4,
+      "title": "AI and Machine Learning Internship",
+      "date": "20 Feb '25",
+      "category": "Data Science",
+      "rating": 4.8,
+      "participants": "500-2000",
+      "icon": "M",
+      "bgColor": "blue-100",
+      "iconColor": "blue-600",
+      "status": "Going online by 20 Feb",
+      "buttonText": "Apply now"
+    },
+    {
+      "id": 5,
+      "title": "Blockchain Developer Challenge",
+      "date": "28 Feb '25",
+      "category": "Blockchain",
+      "rating": 4.7,
+      "participants": "1500-3500",
+      "icon": "B",
+      "bgColor": "green-100",
+      "iconColor": "green-600",
+      "status": "Going online by 28 Feb",
+      "buttonText": "Join now"
+    }
+  ]
+  

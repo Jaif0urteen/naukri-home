@@ -1,0 +1,22 @@
+
+[
+    {
+      "title": "Get customized mock interview with AI",
+      "subtitle": "Real questions, tips, and insights",
+      "buttonText": "Start practicing",
+      "bgColor": "from-teal-400 to-blue-400"
+    },
+    {
+      "title": "Enhance your coding skills with practice",
+      "subtitle": "Solve real problems with real-time feedback",
+      "buttonText": "Start coding",
+      "bgColor": "from-green-400 to-blue-500"
+    },
+    {
+      "title": "Ace your job interviews with mock tests",
+      "subtitle": "Prepare with industry-specific questions",
+      "buttonText": "Take test now",
+      "bgColor": "from-purple-400 to-pink-400"
+    }
+  ]
+  

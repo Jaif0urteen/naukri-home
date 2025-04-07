@@ -1,0 +1,27 @@
+[
+    {
+      "category": "MNCs",
+      "hiringCount": 1276,
+      "companies": ["IBM", "MS", "GE"],
+      "bgColor": "from-blue-400 to-blue-600"
+    },
+    {
+      "category": "Internet",
+      "hiringCount": 982,
+      "companies": ["G", "FB", "A"],
+      "bgColor": "from-green-400 to-green-600"
+    },
+    {
+      "category": "Manufacturing",
+      "hiringCount": 571,
+      "companies": ["TM", "RE", "H"],
+      "bgColor": "from-red-400 to-red-600"
+    },
+    {
+      "category": "Fortune 500",
+      "hiringCount": 352,
+      "companies": ["WM", "AM", "AP"],
+      "bgColor": "from-yellow-400 to-yellow-600"
+    }
+  ]
+  

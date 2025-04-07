@@ -1,0 +1,15 @@
+
+[
+    { "id": 1, "name": "Remote", "icon": "Briefcase" },
+    { "id": 2, "name": "MNC", "icon": "Building" },
+    { "id": 3, "name": "Internship", "icon": "User" },
+    { "id": 4, "name": "Banking & Finance", "icon": "Building" },
+    { "id": 5, "name": "Sales", "icon": "FileText" },
+    { "id": 6, "name": "Startup", "icon": "Star" },
+    { "id": 7, "name": "Supply Chain", "icon": "MapPin" },
+    { "id": 8, "name": "Software & IT", "icon": "Code" },
+    { "id": 9, "name": "HR", "icon": "User" },
+    { "id": 10, "name": "Marketing", "icon": "BarChart2" },
+    { "id": 11, "name": "Analytics", "icon": "PieChart" }
+  ]
+  

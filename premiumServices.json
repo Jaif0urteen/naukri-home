@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "icon": "FileText",
+      "name": "Resume writing",
+      "description": "Get a professionally written resume to impress employers."
+    },
+    {
+      "id": 2,
+      "icon": "Star",
+      "name": "Priority applicant",
+      "description": "Get priority consideration from employers looking for top talent."
+    },
+    {
+      "id": 3,
+      "icon": "MessageSquare",
+      "name": "Resume display",
+      "description": "Ensure your resume is displayed prominently to employers."
+    }
+  ]
+  

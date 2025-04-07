@@ -1,0 +1,79 @@
+{
+    "companies": [
+      {
+        "name": "Cognizant",
+        "initial": "C",
+        "color": "blue",
+        "questions": "600+"
+      },
+      {
+        "name": "TCS",
+        "initial": "T",
+        "color": "red",
+        "questions": "700+"
+      },
+      {
+        "name": "Flipkart",
+        "initial": "F",
+        "color": "yellow",
+        "questions": "300+"
+      },
+      {
+        "name": "Byju's",
+        "initial": "B",
+        "color": "green",
+        "questions": "250+"
+      },
+      {
+        "name": "Amazon",
+        "initial": "A",
+        "color": "gray",
+        "questions": "550+"
+      },
+      {
+        "name": "Accenture",
+        "initial": "A",
+        "color": "purple",
+        "questions": "400+"
+      }
+    ],
+    "roles": [
+      {
+        "name": "Software Engineer",
+        "icon": "Code",
+        "color": "blue",
+        "questions": "1.2K+"
+      },
+      {
+        "name": "Business Analyst",
+        "icon": "Briefcase",
+        "color": "yellow",
+        "questions": "800+"
+      },
+      {
+        "name": "Developer",
+        "icon": "User",
+        "color": "green",
+        "questions": "1K+"
+      },
+      {
+        "name": "Operations",
+        "icon": "PieChart",
+        "color": "red",
+        "questions": "650+"
+      },
+      {
+        "name": "Sales & Marketing",
+        "icon": "BarChart2",
+        "color": "purple",
+        "questions": "750+"
+      },
+      {
+        "name": "Quality Engineer",
+        "icon": "FileText",
+        "color": "gray",
+        "questions": "450+"
+      }
+    ]
+  }
+  

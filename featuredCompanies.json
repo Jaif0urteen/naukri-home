@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "logoInitials": "JB",
+      "companyName": "IBM",
+      "rating": 4.2,
+      "reviewsCount": "23K+",
+      "description": "Find the best career with us",
+      "buttonText": "View jobs",
+      "bgColor": "bg-blue-100",
+      "textColor": "text-blue-600"
+    },
+    {
+      "id": 2,
+      "logoInitials": "A",
+      "companyName": "Apple",
+      "rating": 4.7,
+      "reviewsCount": "48K+",
+      "description": "Join us. Be you.",
+      "buttonText": "View jobs",
+      "bgColor": "bg-gray-100",
+      "textColor": "text-black"
+    },
+    {
+      "id": 3,
+      "logoInitials": "E",
+      "companyName": "Engineer",
+      "rating": 4.3,
+      "reviewsCount": "16K+",
+      "description": "We are transforming industries",
+      "buttonText": "Learn more",
+      "bgColor": "bg-red-100",
+      "textColor": "text-red-600"
+    },
+    {
+      "id": 4,
+      "logoInitials": "P",
+      "companyName": "Persistent",
+      "rating": 3.9,
+      "reviewsCount": "12K+",
+      "description": "Create digital-first businesses",
+      "buttonText": "View jobs",
+      "bgColor": "bg-purple-100",
+      "textColor": "text-purple-600"
+    },
+    {
+      "id": 5,
+      "logoInitials": "JP",
+      "companyName": "JPMorgan",
+      "rating": 4.0,
+      "reviewsCount": "31K+",
+      "description": "Leader in financial services",
+      "buttonText": "View jobs",
+      "bgColor": "bg-green-100",
+      "textColor": "text-green-600"
+    }
+  ]
+  
